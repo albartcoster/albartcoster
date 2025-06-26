@@ -1,21 +1,37 @@
 project:
   type: website
+resources:
+  - CNAME
 
 website:
-  title: "website_albartcoster"
+  title: "Albart Coster"
+  description: "Albart Coster, dierwetenschapper, combineert wetenschap en praktische ervaring in dagelijks advieswerk."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      ## - href: posts
+      ##  text: Aantekeningen
+      ##- href: talks
+      ##  text: Presentaties
+      
+  page-footer:
+    left: " Albart Coster, 2025–."
+  ## twitter-card: true
+  ## open-graph: true
+  ## google-analytics: "395640625"
 
 format:
   html:
     theme:
       - cosmo
-      - brand
-    css: styles.css
     toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+        
 
-editor: visual
+
 
