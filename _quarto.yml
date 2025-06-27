@@ -13,8 +13,8 @@ website:
         text: Home
       ## - href: posts
       ##  text: Aantekeningen
-      ##- href: talks
-      ##  text: Presentaties
+      - href: presentaties.qmd
+        text: Presentaties
       
   page-footer:
     left: " Albart Coster, 2025–."

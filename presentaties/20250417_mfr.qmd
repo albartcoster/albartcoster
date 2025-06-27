@@ -1,0 +1,12 @@
+---
+title: "Presentatie voor Duits melkveebedrijf"
+description: "Presentatie voor een melkveebedrijf in Duitsland"
+author: "Albart Coster"
+date: "4/16/2025"
+categories:
+  - Nieuws
+  - Voeding
+  - Ruwvoer
+---
+
+De link vind u [hier](https://albartcoster.github.io/presentaties/20250416_ruwvoer_mfr.html)
