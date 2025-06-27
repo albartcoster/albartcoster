@@ -1,3 +1,3 @@
 # Website van Albart Coster
 
-[website](albartcoster.github.io/albartcoster)
+[website](http://albartcoster.github.io/albartcoster)
