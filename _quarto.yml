@@ -6,6 +6,7 @@ execute:
   freeze: auto
 
 website:
+  site-url: "https://albartcoster.github.io/albartcoster/"
   title: "Albart Coster"
   description: "Albart Coster, dierwetenschapper, combineert wetenschap en praktische ervaring in dagelijks advieswerk."
   navbar:
