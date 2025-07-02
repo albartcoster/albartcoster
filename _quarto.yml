@@ -1,14 +1,13 @@
 project:
   type: website
   output-dir: docs
-resources:
-  - CNAME
 
 website:
   title: "Albart Coster"
   description: "Albart Coster, dierwetenschapper, combineert wetenschap en praktische ervaring in dagelijks advieswerk."
   navbar:
-    left:
+    background: primary
+    right:
       - href: index.qmd
         text: Home
       ## - href: posts
@@ -25,14 +24,25 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      light: flatly
+      dark: darkly
     toc: true
     toc_depth: 3
     toc_float: true
     toc_smooth_scroll: true
     toc_highlight: true
     fig-align: center
-        
-
-
-
+   
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: nl
+    text: "Nederlands"
+  - name: en
+    text: "Englisch"
+  mainlanguage: 'nl'
+  languages: ['nl','en']
+title-en: Albart Coster
+description-en: Albart Coster's website
+author-en: Albart Coster
+lang: nl

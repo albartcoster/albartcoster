@@ -1,0 +1,19 @@
+---
+title: "Albart Coster"
+about:
+    template: trestles 
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/albart-coster-88bba723/
+        - icon: github
+          text: Github
+          url: https://github.com/albartcoster
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:albart@dairyconsult.nl
+comments: false
+---
+
+Myself in english
+
+
