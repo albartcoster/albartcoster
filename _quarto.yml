@@ -41,7 +41,7 @@ babelquarto:
   - name: en
     text: "Englisch"
   mainlanguage: 'nl'
-  languages: ['nl','en']
+  languages: ['en']
 title-en: Albart Coster
 description-en: Albart Coster's website
 author-en: Albart Coster
